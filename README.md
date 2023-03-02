@@ -14,3 +14,4 @@ Here will be information about my progress in learning front-end technologies. I
 
 ### Socials:
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/id112223546)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mnykh.sergei/)
